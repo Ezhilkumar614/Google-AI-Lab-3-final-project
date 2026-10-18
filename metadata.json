@@ -1,0 +1,6 @@
+{
+  "name": "TaskAI Fit - AI Workflow Opportunity Evaluator",
+  "description": "Evaluate recurring tasks to identify the best fit for AI tools, compare automation feasibility, and test interactive prototype workflows.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
